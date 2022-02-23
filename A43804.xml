@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's weal &amp; prosperity proposed, or, Reasons for erecting publick vvork-houses in every county for the speedy promoting of industry and the woollen manufactory, shewing how the wealth of the nation may be encreased, many hundred thousand pounds per annum, and also that many thousand persons may be so reformed, to their own and the whole kingdoms present and future wealth and glory, that there may no more be a beggar bred up in the nation : humbly offered to the consideration of the great wisdom of the nation, and presented to the Honourable House of Commons / by R. Haines ; to which is added a model of government for such works houses prepared by the same author, and printed in the year (79) ; intended to have been presented to the last Parliament, pursuant to a breviate of proposals for the promoting of industry, and speedy restoring the woollen manufactory, by him formerly published.</title>
+            <author>Haines, Richard, 1633-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43804</idno>
+            <idno type="STC">Wing H201</idno>
+            <idno type="STC">ESTC R6472</idno>
+            <idno type="EEBO-CITATION">12271959</idno>
+            <idno type="OCLC">ocm 12271959</idno>
+            <idno type="VID">58283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 628:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's weal &amp; prosperity proposed, or, Reasons for erecting publick vvork-houses in every county for the speedy promoting of industry and the woollen manufactory, shewing how the wealth of the nation may be encreased, many hundred thousand pounds per annum, and also that many thousand persons may be so reformed, to their own and the whole kingdoms present and future wealth and glory, that there may no more be a beggar bred up in the nation : humbly offered to the consideration of the great wisdom of the nation, and presented to the Honourable House of Commons / by R. Haines ; to which is added a model of government for such works houses prepared by the same author, and printed in the year (79) ; intended to have been presented to the last Parliament, pursuant to a breviate of proposals for the promoting of industry, and speedy restoring the woollen manufactory, by him formerly published.</title>
+                  <author>Haines, Richard, 1633-1685.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: The "model of government" is lacking in filmed copy.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almshouses --  England.</term>
+               <term>Wool industry --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58283:1"/>
+            <pb facs="tcp:58283:1" rendition="simple:additions"/>
+            <p>ENGLAND'S Weal &amp; Proſperity PROPOSED: OR, REASONS For Erecting <hi>Publick UUork-Houſes</hi> In every <hi>CO<g ref="char:V">Ʋ</g>NTY,</hi> For the ſpeedy promoting of <hi>Induſtry</hi> and the <hi>Woollen Manu<g ref="char:EOLhyphen"/>factory,</hi> ſhewing how the Wealth of the Nation may be en<g ref="char:EOLhyphen"/>creaſed, many Hundred thouſand pounds <hi>per Annum.</hi> And alſo that many Thouſand perſons may be ſo Reformed, to their own and the whole Kingdoms preſent and future Wealth and Glory, that there may no more be a Begger bred up in the Nation.</p>
+            <p>Humbly offered to the Conſideration of the Great Wiſdom of the Nation, and preſented to the Honourable HOUSE of COMMONS.</p>
+            <p>By <hi>R. HAINES.</hi>
+            </p>
+            <p>To which is added <hi>A Model of Government</hi> for ſuch <hi>Works Houſes</hi> prepared by the ſame Author, and Printed in the year (79) intended to have been preſented to the laſt Parliament.</p>
+            <p>Purſuant to <hi>a Breviate of Propoſals</hi> for the promoting of Indu<g ref="char:EOLhyphen"/>ſtry, and ſpeedy reſtoring the <hi>Woollen Manufactory,</hi> by him formerly publiſhed.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Langley Curtis,</hi> in <hi>Goat Court</hi> on <hi>Ludgate-hill.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58283:2"/>
+            <pb facs="tcp:58283:2"/>
+            <head>
+               <hi>To the Right Honourable Sir</hi> PATIENCE WARD, <hi>Knt. Lord MAYOR of LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THough the enſuing Reaſons, by the Nature of the Thing, are addreſſed to the Honourable Houſe of Commons, whereof you are ſo valuable a Member; It being that Great Council, whoſe <g ref="char:V">Ʋ</g>nited Votes can alone promote with Effect, what is herein humbly offered. Yet, my Lord, by rea<g ref="char:EOLhyphen"/>ſon this Work is of very great Import, and (as in all ſuch Caſes) re<g ref="char:EOLhyphen"/>quires the more time to demonſtrate the Value, <g ref="char:V">Ʋ</g>ſefulneſs, Neceſ<g ref="char:EOLhyphen"/>ſity and Feaſeableneſs thereof, or otherwiſe is apt to be neglected or thrown by; Therefore I have taken the boldneſs to Dedicate the ſame in particular to your Honour, as a moſt proper Advocate and Patron, humbly intreating, that as you are a known Publick Spi<g ref="char:EOLhyphen"/>rited Promoter and Encourager of all things tending to the Weal, Safety and Proſperity of the King and Kingdom, ſo your Honour would be pleaſed to recommend theſe Reaſons and the Matter Pro<g ref="char:EOLhyphen"/>poſed, to that Honourable Houſe, and to improve your Intereſt to have the ſame read before them, If after your Peruſal, your Honour ſhall find them worthy of ſuch your Countenance and Approbation; wherein I hope you will do your King, City and Country no inconſi<g ref="char:EOLhyphen"/>derable Service, as well as a very great Honour to,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Lordſhip's moſt Humble Servant,</hi> Richard Haines.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:58283:3"/>
+            <head>England<hi>'s Weal and Proſperity Propoſed: Or,</hi> Reaſons <hi>for the Erecting</hi> Publick Work-Houſes <hi>in every County,</hi> &amp;c.</head>
+            <p>FOraſmuch as our Wool is the main Support of that Trade which maintains and encreaſes the Wealth, Strength and Glory of the <hi>Engliſh</hi> Nation; therefore, of all Commodities of our own Growth, this ought to be moſt carefully maintained and encouraged in that way it is <hi>THUS SERVICEABLE,</hi> which conſiſts not in the Ex<g ref="char:EOLhyphen"/>portation of unwrought Wooll, nor in the Conſumption of our Woollen-Draperies at Home; but in the Exportations of, and quick Markets for our Woollen-Draperies abroad, as faſt as they can be made and ſpared at home; That this may be done, and that for the doing thereof, <hi>Publick Work-Hou<g ref="char:EOLhyphen"/>ſes</hi> to be Erected in every County, will be a moſt certain and effectual Expedient. Theſe following Reaſons are prepared for the Satisfaction of all concern'd therein.</p>
+            <div n="1" type="reason">
+               <head>
+                  <hi>Reaſon</hi> I.</head>
+               <p>Becauſe ſuch <hi>Work-Houſes</hi> (are no New Project, but) have already in Fact proved the beſt Expedients to bring all Idle, poor People, Beggars, Vagrants, <hi>&amp;c.</hi> into ſuch a Habit of Induſtry, that there is not a Beggar, <hi>&amp;c.</hi> bred up, or ſuffer<g ref="char:EOLhyphen"/>ed in thoſe Countries where ſuch Houſes are Erected and well<g ref="char:EOLhyphen"/>governed.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>
+                  <hi>Reaſon</hi> II.</head>
+               <p>Becauſe, without ſuch <hi>Houſes,</hi> in which ſuch poor, and now idle People may be kept to Labour under good Government, it is altogether improbable to convert them to ſuch Habit of Induſtry, and keep them employed in ſuch profitable Manu<g ref="char:EOLhyphen"/>factures, by which the Trade, Wealth and Safety of the Kingdom may be promoted.</p>
+            </div>
+            <div n="3" type="reason">
+               <pb n="5" facs="tcp:58283:3"/>
+               <head>
+                  <hi>Reaſon</hi> III.</head>
+               <p>Becauſe, as by theſe Expedients, there may not be any Beggars in the Nation, ſo ſhall not they, or any poor People have occaſion to complain for want of an honeſt Employment, Food, Raiment, or Habitation.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>
+                  <hi>Reaſon</hi> IV.</head>
+               <p>Becauſe, by theſe Expedients, an Hundred or two Hun<g ref="char:EOLhyphen"/>dred Thouſand People may be ſuddainly converted, to their own, and the Nations preſent and future Happineſs; and as it hath been the fatal Practice of this Nation, to breed up 30 or 40000 perſons every Year to be maintain'd for Begging, <hi>&amp;c.</hi> So by theſe Expedients, they may breed up every Year ſuc<g ref="char:EOLhyphen"/>ceſſively 30 or 40000 ingenious Cloth-makers, who may con<g ref="char:EOLhyphen"/>vert Wool enough to make as much Cloth as may encreaſe the Wealth of the Nation many Hundred Thouſand pounds <hi>per Annum.</hi>
+               </p>
+            </div>
+            <div n="5" type="reason">
+               <head>
+                  <hi>Reaſon</hi> V.</head>
+               <p>Becauſe for want of ſuch Expedients, whereby Induſtry, and the Woollen Manufactory may be effectually promoted, our Wooll is fallen from 12 <hi>d.</hi> to 6 <hi>d. per</hi> pound, by reaſon that the number of the people at preſent employed therein, are not able to convert our Wooll half ſo faſt as it grows; ſo that it ſeems very unreaſonable to prohibit the Exportation of unwrought Wooll, whilſt the Expedients by which it may be converted at Home are rejected.</p>
+            </div>
+            <div n="6" type="reason">
+               <head>
+                  <hi>Reaſon</hi> VI.</head>
+               <p>Becauſe, that as our Clothiers and Merchants do infallibly demonſtrate, that the Exportation of unwrought Wooll, hath deſtroyed our Forreign Markets for the Sale of our Cloth; ſo it is as eaſie to be demonſtrated, that had not ſuch quantities of <hi>Engliſh</hi> and <hi>Iriſh</hi> Wooll been exported, as at preſent there is in abundance, it would have fallen from 12 <hi>d.</hi> to 3 <hi>d. per</hi> pound; becauſe as the Stock of Wooll increaſes, the Price muſt decreaſe. So that there is no way to raiſe the Price of Wooll, nor yet to keep it up where it is, but either the Na<g ref="char:EOLhyphen"/>tion will be brought to extreme Poverty, or made to encreaſe mightily in Wealth and Power, <hi>viz.</hi> either we muſt Export
+<pb n="6" facs="tcp:58283:4"/>
+our Wooll, as daily (eſpecially within theſe laſt nine Months) we do to thoſe that deſtroy our Trade thereby, or bring all idle, poor people to Induſtry, to convert it at Home as faſt as it grows; by which means only, our Wooll will ſoon mount to 12 <hi>d.</hi> yea, 18 <hi>d. per</hi> pound, which will alſo quickly remove the occaſion for the Exportation thereof. This being done, the Woollen Manufactures of <hi>France, Flanders,</hi> &amp;c. will ſoon be deſtroyed to that degree, as not to hinder the Sale of ours, ſeeing they cannot make Cloth without a Mixture of our Wool, but on very unequal Terms (as our Clothiers have affirmed before a Committee of the laſt Long Parliament.) Wherefore as the ready way to deſtroy the Wealth and Trade of our Nation, is to export our Wooll, and maintain our ma<g ref="char:EOLhyphen"/>ny thouſands of Poor in Idleneſs and Debauchery<hi>:</hi> So the moſt certain Expedient by which we may revive and regain the Woollen Manufactory, is to proſecute theſe Expedients that will bring all the people aforeſaid to Induſtry. By which we may raiſe the price of Wooll at Home, and afford our Cloth and Draperies cheaper than our Supplanters, in Markets A<g ref="char:EOLhyphen"/>broad; which is not to be done, but by the Expedients pro<g ref="char:EOLhyphen"/>poſed.</p>
+               <div type="objection">
+                  <head>
+                     <hi>Obj.</hi> If it be objected, That if our Wool ſhould be raiſed to 18 <hi>d.</hi> &amp;c. <hi>per</hi> pound, then other Nations will under-ſell us with Cloth they make of <hi>French</hi> and <hi>Spaniſh</hi> Wooll.</head>
+                  <p>
+                     <hi>Anſw.</hi> To this I anſwer, this cannot be, becauſe the <hi>Spaniſh</hi> Wooll is ſo ſhort and fine, and the <hi>French</hi> ſo ſhort and courſe, that they will neither work together, nor yet apart, without a Mixture of ours, but upon very unequal Terms. The Truth of this is well known and affirmed by Perſons of good Judg<g ref="char:EOLhyphen"/>ment and Experience.</p>
+               </div>
+            </div>
+            <div n="7" type="reason">
+               <head>
+                  <hi>Reaſon</hi> VII.</head>
+               <p>That without theſe Expedients for promoting Induſtry, all the Laws and Statutes now in being, can never raiſe the Price of our Wooll, nor keep it up at the price it now yields, nor yet have it converted at Home, becauſe all the Wooll of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland</hi> is (as it were) monopoliz'd into the Hands of the Clothiers by Act of Parliament, notwithſtanding they
+<pb n="7" facs="tcp:58283:4"/>
+cannot by their preſent courſe of Trade convert it half ſo faſt as it grows, which being ſo, they may keep down the price at their pleaſure, (they having Power to hang, <hi>&amp;c.</hi> thoſe that Export it from them, if they could catch them) which intollerable grievance by the Expedients propoſed, would moſt happily be removed, to the great Satisfaction of all that wiſh well to the Intereſt of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="8" type="reason">
+               <head>
+                  <hi>Reaſon</hi> VIII.</head>
+               <p>Becauſe, by theſe Expedients, many Hundreds of well<g ref="char:EOLhyphen"/>skill'd, but poor decayed Clothiers, who have little or no Stock of their own, may promote this Manufactory in every Coun<g ref="char:EOLhyphen"/>ty, where every one of them may as eaſily employ 200 Peo<g ref="char:EOLhyphen"/>ple in Work, in ſuch a Publick Houſe, as he could Ten elſe<g ref="char:EOLhyphen"/>where.</p>
+            </div>
+            <div n="9" type="reason">
+               <head>
+                  <hi>Reaſon</hi> IX.</head>
+               <p>Becauſe in ſuch Houſes a Multitude may be inſtructed in Art and Skill in ſhort time without Difficulty or Charge<hi>:</hi> For beginning upon the very courſeſt Wooll there can be no Loſs, but rather Advantage, becauſe, as the courſeſt Cloth is as ready Money as the fineſt, ſo the greater Quantity is made, the greater will be the Conſumption of our Wooll.</p>
+               <p>But if it be doubted, That by reaſon of our double encreaſe of Clothing, there will be want of Market for our Cloth. My Anſwer in ſhort, is, That if all the Wooll in <hi>Europe</hi> were converted in <hi>England,</hi> there would no more Cloth be made than what was before: For what Wooll is not converted here, is converted elſewhere; therefore the Trade for our Draperies will be as good as ever, and much better, ſeing by the Expedients and Methods propoſed, we may make and ſell our Cloth cheaper than our Supplanters. That we may under-ſell them is plain, becauſe we have greater Advanta<g ref="char:EOLhyphen"/>ges than any of them; we having <hi>Fullar's Earth,</hi> they have none: Our Wooll is the kindeſt in the World to be convert<g ref="char:EOLhyphen"/>ed without mixture of other; but they cannot convert theirs without ſome mixture of ours, unleſs upon coſtly and unequal Terms, for the Reaſon before-mentioned. Therefore as by the Expedients propoſed, we may double our Quantity. So
+<pb n="8" facs="tcp:58283:5"/>
+we may under-ſell them, and encreaſe and double our Markets proportionably.</p>
+               <p>As for the Charge, 'tis no more, than as if every Pariſh were ob<g ref="char:EOLhyphen"/>liged to that which Law and Reaſon already requires, <hi>viz.</hi> To provide Habitations and Employments for their chargeable Poor; only with this difference, that in theſe Houſes, far greater Numbers will be employed, and to far greater Advantage when under ſuch Government as will teach them Skill and Art, adminiſtring Councel, Encouragement and Correction. So that twice the Work will be done, and leſs time ſpent idly, than where they are apart.</p>
+            </div>
+            <div n="10" type="reason">
+               <head>
+                  <hi>Reaſon</hi> X.</head>
+               <p>Becauſe without theſe Expedients, the Wealth and Strength of the Nation will unavoidably be invaded and deſtroyed at the pleaſure of thoſe that are our Supplanters, becauſe the Woollen Manufactory is the grand Support of our Trade of Merchandize<hi>:</hi> For 'tis affirmed by ſome of very good Know<g ref="char:EOLhyphen"/>ledge and Judgment, that if all the Manufactures of <hi>England</hi> that are exported, were divided into Thirteen Parts; the Woollen Manufactures would make Ten of the Thirteen. So that if the Expedients which may promote and uphold the Woollen Manufactory be rejected, and our Supplanters in<g ref="char:EOLhyphen"/>creaſe in Trade, as of late years they very much have done, then of neceſſity, our flouriſhing Trade of Merchandize, which alone encreaſed our Wealth and Treaſure muſt be deſtroyed, together with our Seamen and Navies of Ships, to the Hazard and Ruine of the Nation.</p>
+               <p>But were it ſo, that we were upon equal Terms with the <hi>Dutch</hi> in reſpect of Induſtry, it is eaſie to be demonſtrated, that <hi>England</hi> would excell all Nations in the World in that Trade, which is the only Mother and Nurſe to bring forth, and encreaſe Riches, Seamen, and Navies of Ships, <hi>&amp;c.</hi> as ap<g ref="char:EOLhyphen"/>pears, if we conſider, that the United <hi>Netherlands,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding their Proviſions for Bread, Beer, Fleſh, Clothing, Timber, Iron, Materials for Manufactures, <hi>&amp;c.</hi> together with their vaſt Expence to maintain their Land againſt the Water, <hi>&amp;c.</hi> All which coſts them (as 'tis adjudged) at leaſt
+<pb n="9" facs="tcp:58283:5"/>
+ten times more than the Natural Product of their Land is<g ref="char:EOLhyphen"/>worth; yet we know, that for Trade, Fulneſs of People, Moneys, Treaſure, Seamen and Shipping, they are more famous than any Nation in <hi>Europe.</hi> But now put Caſe their Induſtry were as little as ours, and that they alſo were to breed up and maintain their Poor for Begging, &amp;c. as we do in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> might we not then infallibly conclude, That within one Age, nay in twenty years they would be the pooreſt, miſera<g ref="char:EOLhyphen"/>ble, and moſt deſpicable people in all the world. Wherefore we having all ſorts of proviſions for Food and Rayment, as it were for nothing, ſeveral hundred thouſand of people to be employed, and Materials enough of our own likewiſe for no<g ref="char:EOLhyphen"/>thing, to make the richeſt Manufactures. Our Induſtry, were it but proportionable to that of the <hi>Dutch,</hi> muſt needs en<g ref="char:EOLhyphen"/>creaſe our Wealth three times more and faſter than theirs. So that moſt plain it is, that <hi>Induſtry,</hi> not Money, is the Life of that Trade which encreaſeth both Money, Treaſure, Seamen, and Shipping.</p>
+               <p>Furthermore, as theſe Houſes are the Mother of Induſtry, ſo 'tis moſt certain, That for want of the ſame Expedients, in every 100 <hi>l.</hi> worth of Wooll exported unwrought, there is 1000 <hi>l.</hi> loſſes to the Nation, our Wooll being at 6 <hi>d.</hi> or 8 <hi>d. per</hi> pound, as now it is; of which, if any be not ſatisfied, they may thus demonſtrate it to themſelves<hi>:</hi> A yard of Fine Broad-Cloth of 16 <hi>s.</hi> or 18 <hi>s.</hi> price will not exceed a pound in weight and the like for fine Worſted Stockins of 6 <hi>s.</hi> price will not weigh ſix ounces. So that put Caſe two pounds of Wooll ſhould be allowed for one pound, yet ſtill every Shilling in Wooll will amount to more than 10 <hi>s.</hi> in Cloth and Stockins, which is what was to be demonſtrated. Thus all this which might ſo have been got by Workmanſhip, &amp;c. being ten times the value of the Wooll is clearly loſt to the Nation, whileſt thoſe that might do it are maintain'd for Begging, &amp;c.</p>
+            </div>
+            <div n="11" type="reason">
+               <head>
+                  <hi>Reaſon</hi> XI.</head>
+               <p>Becauſe, as by theſe Expedients Induſtry, Trade, Treaſure, Seamen and Navies will encreaſe, ſo the intollerable charge of all Pariſhes will decreaſe: Becauſe all poor people will be
+<pb n="10" facs="tcp:58283:6"/>
+bred up to ſuch Habit of Induſtry, as to learn whilſt they are young, to gain their Living while they come old, ſo that it will be very rare to find any chargable, but ſuch as are meer objects of Charity, <hi>viz.</hi> thoſe that by Infancy, Old Age, or Sickneſs are uncapable of all kind of Imployment, neither of which continue long.</p>
+            </div>
+            <div n="12" type="reason">
+               <head>
+                  <hi>Reaſon</hi> XII.</head>
+               <p>Becauſe, (as I have again and again demonſtrated by ſeve<g ref="char:EOLhyphen"/>ral Printed ſheets) by the Expedients propoſed, the Wealth of our Nation may increaſe 30 or 40 hundred thouſand pounds <hi>per Annum,</hi> the greatneſs of which makes many raſh perſons contemn all that I have propoſed as a thing impoſſible. Ne<g ref="char:EOLhyphen"/>vertheleſs upon diligent and repeated Inquiries and delibe<g ref="char:EOLhyphen"/>rate Conſideration, I dare affirm, with all Confidence, That it will amount to much more.</p>
+               <p n="1">1. Becauſe the Returns of our Woollen Draperies that are now Exported do amount to more than Ten Millions <hi>per Annum;</hi> as is atteſted by ſuch as are well skilled and experienced in this matter.</p>
+               <p n="2">2. Wherefore there being as much more <hi>Engliſh</hi> and <hi>Iriſh</hi> Wooll to be converted, as is now converted by the preſent Courſe of Trade (as moſt certainly there is.) Then if all the people aforeſaid (being double the num<g ref="char:EOLhyphen"/>ber of thoſe that are now Imployed therein) were brought to Induſtry, as by theſe Expedients they cer<g ref="char:EOLhyphen"/>tainly and ſpeedily might, it as certainly follows, That a double quantity of Woollen Draperies would be made.</p>
+               <p n="3">3. And conſidering there's none of theſe Draperies to be deducted out of ſuch our additional Trade to be conſu<g ref="char:EOLhyphen"/>med at home, or to be carried to the diſmal low Mar<g ref="char:EOLhyphen"/>kets in <hi>Golgotha,</hi> from whence there are no Returns: but the whole of what is raiſed by this our New Trade, is to be Exported to ſuch Markets as will afford good and quick Returns.</p>
+               <p n="4">4. It will therefore, from all this infallibly likewiſe follow, That if the old, <hi>viz.</hi> The preſent Trade of Clothing, af<g ref="char:EOLhyphen"/>ter ſo much is taken out of it to ſatisfie the uſes afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="11" facs="tcp:58283:6"/>
+doth now Bring in more than <hi>Ten Millions per An<g ref="char:EOLhyphen"/>num;</hi> then muſt the New, out of which there is no de<g ref="char:EOLhyphen"/>falcations bring in much more.</p>
+               <p>Which at leaſt amounts to as much as what was to be demonſtrated.</p>
+               <p>But put Caſe we have not Wooll enough to imploy all the people aforeſaid, yet the Expedients ſtill remain unſhaken, becauſe we may imploy them in making of Linnen with great Advantage; For as the firſt will bring Treaſure into the <hi>Na<g ref="char:EOLhyphen"/>tion;</hi> ſo the other will preſerve it from going out, (and then whether our Dead be buried in Woollen or Linnen it mat<g ref="char:EOLhyphen"/>ters not.) So that the Caſe is plain we have Wooll enough, Hemp and Flax enough, Fullers-Earth enough, and Poor Peo<g ref="char:EOLhyphen"/>ple enow, to make Draperies enough to make our Nation to excell all Kingdoms in the World in Wealth and Power, Strength and Safety: And as certainly may the ſame be ac<g ref="char:EOLhyphen"/>compliſht, to the Honour of Almighty God, and happy Re<g ref="char:EOLhyphen"/>formation of many Thouſands, who are bred up in Idleneſs, and live in all manner of Debauchery, and dye moſt miſe<g ref="char:EOLhyphen"/>rably.</p>
+               <p>Nor may any Member that wiſhes well to the Intereſt of <hi>England</hi> oppoſe it: For as for the Landlord, he above all men, ought to promote it, becauſe the Charge properly belongs to the Tenant or Poſſeſſor, who is accuſtomed to contribute to the Relief and Maintenance of the Poor. Nor, Secondly, may the Tenant or Poſſeſſor complain, becauſe they will not on<g ref="char:EOLhyphen"/>ly be much eaſed in ſuch their Charge, but vaſtly advantaged by quick and good Markets, for Wooll, Corn and Cattel, when ſo many thouſands are imployed more than now are, and earn, and pay for all that they eat, drink and wear. Nay, what they now ſuffer by Houſ-rents, Hedg-breaking, Pilfer<g ref="char:EOLhyphen"/>ing, and unneceſſary Contributions to Beggars, <hi>&amp;c.</hi> amounts to near as much as will pay for the Building of theſe Houſes: For, put caſe there be 200000 Beggars and idle, chargeable People in the Nation, and what they eat, drink and wear, amount but to 5 <hi>l. per Annum</hi> a piece, this amounts to one Million in one Year, and what is loſt as aforeſaid, near as much more.</p>
+            </div>
+            <div n="13" type="reason">
+               <pb n="12" facs="tcp:58283:7"/>
+               <head>
+                  <hi>Reaſon</hi> XIII.</head>
+               <p>Becauſe the Charge of ſuch Houſes of Induſtry, by which the Wealth of the Nation may encreaſe ſo many Millions <hi>per Annum, &amp;c.</hi> conſidered as a National Charge, is no Charge at all to the Nation, becauſe the Money that muſt pay for doing of it, never goes out of the Nation, but like the Blood in its Circulation, remains within the Body for the Comfort and Benefit of every Limb and Member. Nor hath any per<g ref="char:EOLhyphen"/>ſon reaſon to think, that his juſt ſhare of Contribution-mo<g ref="char:EOLhyphen"/>ney might be better beſtow'd, ſeeing that by this Expedient, his Poſterity to all Generations ſhall be ſecured from Begga<g ref="char:EOLhyphen"/>ry, ſo as never to be deſtitute of a Lawful Imployment, Food, Raiment and Habitation.</p>
+            </div>
+            <div n="14" type="reason">
+               <head>
+                  <hi>Reaſon</hi> XIV.</head>
+               <p>Becauſe, by theſe Expedients, His Majeſties Revenue, by the encreaſe of Cuſtomes, Poundage and Tollage, cannot a<g ref="char:EOLhyphen"/>mount to leſs than 100000 <hi>l. per Annum,</hi> becauſe anſwerable to the encreaſe of Trade, ſo the encreaſe of Cuſtomes will be near proportionable: Wherefore it concerns His Majeſty as much as the Nation, to encourage the Expedients that will haſten it.</p>
+               <p>The greateſt Objections raiſed againſt this Expedient, pro<g ref="char:EOLhyphen"/>ceed from two ſorts of men, the one againſt it, the other for it.</p>
+               <div n="1" type="objection">
+                  <head>1. <hi>Obj.</hi> As for the Firſt, all that they alledge centres in this, namely, That the Expedient is impracticable, becauſe people are generally ſo baſe, deceitful and diſhoneſt, that one may not truſt another; and (ſay ſome) Let the Poor beg, ſtarve, ſteal, and be hang'd and damn'd; it's beſt for me and mine to keep our Money whilſt we have it.</head>
+                  <p>
+                     <hi>Anſw.</hi> To this I ſhall only ſay, That there is no reaſon to account that impracticable, which we daily ſee done before our Eyes by our next next Neighbours, and to ſay the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> are leſs truſty, is too groſs an Affront to be put upon our Country: However, I have offered ſuch a Method for erecting and Manageing theſe Houſes, that it ſhall be the Intereſt, as well as Duty of all Perſons concern'd therein, to be honeſt,
+<pb n="13" facs="tcp:58283:7"/>
+and effectually to promote the good Ends thereby deſign'd; and as for the latter part of the Objection, 'tis ſuch a Miſery, Un<g ref="char:EOLhyphen"/>charitable and Atheiſtical Folly, as deſerves no further Re<g ref="char:EOLhyphen"/>gard.</p>
+               </div>
+               <div n="2" type="objection">
+                  <head>2. <hi>Obj.</hi> The moſt important Objection is of the latter, which calls loud for Anſwer<hi>:</hi> We approve (ſay they) of the thing, but 'tis next to impoſſible, that this Honourable Houſe ſhould take Cognizance thereof before they have eſtabliſht and ſe<g ref="char:EOLhyphen"/>cured that Religion which God hath appointed for his own Worſhip and Service, without which, all hope of obtaining his Mercies and Bleſſings for the Wealth and Proſperity of the Kingdom is in vain.</head>
+                  <p>
+                     <hi>Anſw.</hi> To this I anſwer, Firſt, As to Religion and Worſhip, that is already eſtabliſht by Law, <hi>&amp;c.</hi> but how to ſecure this Religion, toge<g ref="char:EOLhyphen"/>ther <note place="margin">Exodus 22, 23, 24. Iſaiah 1. from the 11. to the 24 verſe. Iſai. 58. from 1. to the 10. v. Mark 10. 21, 22, 25. Luke 16. from the 19. to the 31. v. Jer. 18. 7, 8, 9, 10. and Jer. 5, 28, 29.</note> with the Peace and Safety of the King and Kingdom, depends only up<g ref="char:EOLhyphen"/>on the Nations Submiſſion unto, and Concurrence with the Will and good Pleaſure of God in other Caſes, to wit, the good of the Poor, <hi>&amp;c.</hi> without which, our Religion and Worſhip, although it be the ſame which himſelf hath appoint<g ref="char:EOLhyphen"/>ed, is altogether unacceptable, as is moſt fully declared by all the Prophets, and confirm'd by our Saviour's own words.</p>
+                  <p>We know, that God always had a Nation, Church, and People in all Ages, (although in every Age ſubject to Error in an high degree) ſo alſo there was a <hi>Babylon, &amp;c.</hi> as a Rod in the Hand of God, to correct them for their wilful Failings and Offences. <hi>Litteral-Babylon</hi> in the time of the Law, and <hi>Myſtery-Babylon</hi> in the time of the Goſpel. The Firſt, to cor<g ref="char:EOLhyphen"/>rect his People, Kings and Princes of <hi>Iſrael:</hi> And the Laſt, to correct his own Chriſtian Kings, Princes and Churches under the Goſpel. This we know is true, if we believe the Pro<g ref="char:EOLhyphen"/>phets, Chriſt, and the Apoſtles, and modern Writings. And as true it is alſo, that the Rod is now in an high manner lift<g ref="char:EOLhyphen"/>ed up againſt the whole Land, the King, and the Church. Yea, and againſt the Religion and Worſhip which God hath
+<pb n="14" facs="tcp:58283:8"/>
+appointed; ſo that Miſery, Deſolation, Death, and unmerci<g ref="char:EOLhyphen"/>ful Cruelties, do (as it were) ſtare in our Faces, and nothing remains for our Comfort but this, namely, That this Reveng<g ref="char:EOLhyphen"/>ful and Bloody Rod, is in the Hands of a Gracious and Mer<g ref="char:EOLhyphen"/>ciful God, who will aſſuredly throw it into the Fire before it ever hurt us, if the Crying Sins by which his moſt Holy Ma<g ref="char:EOLhyphen"/>jeſty is moſt highly provoked and diſpleaſed, be put away, whereof this ever was, and now at this time, is one of the moſt intollerable and provoking Evils, namely, The lamen<g ref="char:EOLhyphen"/>table Condition of thoſe many Thouſands of Poor People, Widdows, and Fatherleſs Children, the many Thouſands that have been, and are bred up in Ignorance, Idleneſs, and all manner of Debaucheries, unſerviceable to the Nation, unfit for Church-members, and that live and die moſt miſerably. And for this very thing which the Moſt High could never en<g ref="char:EOLhyphen"/>dure, God was offended, and his Wrath kindled againſt his own People, their Kings, and Nation, to that Degree, that he abhorr'd their moſt Solemn Services and Worſhip which himſelf had commanded. Yea, when by Faſting, Praying, <hi>&amp;c.</hi> they cried unto him, he would not hear, nor regard; it was Iniquity, even their Solemn Meeting, until this intollerable thing was effectually reform'd.</p>
+                  <p>Which is an infallible Demonſtration, that God hath a grea<g ref="char:EOLhyphen"/>ter Regard to the Poor, <hi>&amp;c.</hi> than he had to the External Re<g ref="char:EOLhyphen"/>ligion and Worſhip which himſelf commanded<hi>:</hi> And for this inſufferable Crime, he delivered his People into the Hands of the King of <hi>Babylon,</hi> who worſhipped Images, <hi>&amp;c.</hi> Now that the Sum of this is true, <hi>Moſes</hi> and all the Prophets do teſti<g ref="char:EOLhyphen"/>fie. And that the ſame Love and Care for the one, and his Indignation againſt the other, remains and continues to this day, is alſo as certain. Witneſs our Saviour's Parable of the Rich Man and the Beggar; when the Rich Man, for being regardleſs of the Beggar's Condition, lift up his Eyes in the Flames of Hell, and finding it impoſſible to obtain Eaſe or Relief, made earneſt Requeſt in the behalf of his Brethren, That a Meſſenger might be ſent to teſtifie the Verity of the matter, that they might repent, <hi>&amp;c.</hi> But behold the Anſwer
+<pb n="15" facs="tcp:58283:8"/>
+from Heaven was <hi>(No, let them alone) they have</hi> Moſes <hi>and the Prophets,</hi> viz. their Sayings and Writings) if they will not hear them, neither will they be perſwaded if one aroſe from the Dead. Which doth plainly ſhew, that the Will and Mind of God, delivered by <hi>Moſes</hi> and the Prophets in this matter, ſtill remains ſo unchangeable, that if a man ſhould keep all the Commandements of God beſides, and offend in this matter, it will profit him nothing: As is poſitively de<g ref="char:EOLhyphen"/>clared by Chriſt, when upon this very occaſion, he turned himſelf from the hopeful Rich Man, whom he loved, and ſaid, <hi>How hard is it for a Rich Man to enter into the Kingdom of God: It is eaſier for a Camel to go through the Eye of a Needle, than for a Rich man to enter into the Kingdom of Heaven.</hi>
+                  </p>
+                  <p>So that for a Nation or Perſon to have more Love or Re<g ref="char:EOLhyphen"/>gard to Worldly Wealth, than to the low and deſpicable Poor, though Beggars, or to defer the relieving them, appears to be one of the higheſt provoking Sins for which God will be a<g ref="char:EOLhyphen"/>veng'd; and to ſum up the whole, it amounts to this, that although we worſhip no falſe God, not bow to any Image, but do worſhip, the true God, according to his Appoint<g ref="char:EOLhyphen"/>ments, do Faſt, pray, and humble our ſelves before him, and keep all the reſt of his Commandments from our Youth up; yet if we judge not the Cauſe of the Fatherleſs, and the Right of the Needy, ſhall not I viſit for theſe things, ſaith God? Shall not my Soul be aveng'd upon ſuch a Nation as this?<hi>—God Almighty grant that this may never be ſaid of</hi> England. <hi>And to prevent the dreadful Stroke of</hi> Babylon.</p>
+                  <p>May it pleaſe this Honourable Houſe,</p>
+                  <p>To Conſider, That as National Sins and Provocations in<g ref="char:EOLhyphen"/>cur the Diſpleaſure of Heaven, ſo likewiſe to reflect how much this preſent Parliament may concilliate to themſelves and this poor Nation, the Favour and Bleſſing of the Almighty; and alſo how gloriouſly the Renown ſhall to all Poſterity be Re<g ref="char:EOLhyphen"/>corded; when by one Act more than an Hundred Thouſand ſhall be converted, as it were at once, in your day, to their own, and the whole Nations preſent and future Happineſs<hi>:</hi> For which, not only the Poor of this Generation, but their
+<pb n="16" facs="tcp:58283:9"/>
+Poſterity (yea, every individual in the Kingdom) in all A<g ref="char:EOLhyphen"/>ges may call you Bleſſed.</p>
+                  <p>Wherefore if this Honourable Houſe do believe, that what I have with all Humility and Zeal to the Publick, offered to your Grave and Pious Conſideration, be well pleaſing to God, and accordingly be approved of by this Honourable Houſe (as it is by the King's Moſt Excellent Majeſty, who hath been Graciouſly pleas'd to declare, that he would be ready in his Station, to encourage it all he could) then my humble Petition to this Honourable Houſe, is,</p>
+                  <p>That I may obtain leave to bring in a Bill, which I have pre<g ref="char:EOLhyphen"/>pared, containing ſuch Clauſes, Rules and Methods as may (with ſuch Corrections and Amendments, as this Honourable Houſe ſhall think meet) in ſhort time compaſs the Deſign in ſuch manner, that all Cheats and Frauds may be ſo far pre<g ref="char:EOLhyphen"/>vented, that the Contributers cannot be injured unleſs they themſelves will willfully be regardleſs of their own Intereſt, together with ſuch Rules and Methods for proſecuting the De<g ref="char:EOLhyphen"/>ſign, as may for ever ſecure it from failing or ceaſing after it is begun.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
